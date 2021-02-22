@@ -2,18 +2,18 @@
 
 The goal with this [Kanban board](https://github.com/nicoelzer/dxdao-security/projects/1) is to coordinate & streamline the security operations of DXdao.
 
-Workers responsible for the Security Operations are executing daily tasks such as:
+Workers responsible for the security operations are executing daily tasks such as:
 
  - Monitoring & screening new proposals
- - Executing a daily security audits of all open proposals
+ - Executing a daily security audit of all open proposals
  - Communicate any noticeable issue with proposals to Governance leaders
 
 ## Kanban Board
 
-Any proposal is assigned to one of the following stages:
+Every proposal is assigned to one of the following stages:
 
  - **📥 ToDo**: Open proposals to be screened
- - **📋 Daily Security Audit**: History of all performed Security audits
+ - **📋 Daily Security Audit**: History of all performed security audits
  - **❌ Rejected**: Malicious proposals that need to be carefully monitored
  - **✅ Approved**: Proposals that are good to pass (Proposals at this stage won't be monitored)
  - **Closed Proposals**: Proposals that have been executed (Either passed or failed)
